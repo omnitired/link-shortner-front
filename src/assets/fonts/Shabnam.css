@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Shabnam;
+  font-display: swap;
+  src: url('./Shabnam/Shabnam.eot');
+  src: url('./Shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
+       url('./Shabnam/Shabnam.woff2') format('woff2'),
+       url('./Shabnam/Shabnam.woff') format('woff'),
+       url('./Shabnam/Shabnam.ttf') format('truetype');
+  font-weight: normal;
+  unicode-range: U+0600-06FF,U+FB8A, U+067E, U+0686, U+06AF, U+200C;
+}
+      
+@font-face {
+  font-family: Shabnam;
+  font-display: swap;
+  src: url('./Shabnam/Shabnam-Bold.eot');
+  src: url('./Shabnam/Shabnam-Bold.eot?#iefix') format('embedded-opentype'),
+       url('./Shabnam/Shabnam-Bold.woff2') format('woff2'),
+       url('./Shabnam/Shabnam-Bold.woff') format('woff'),
+       url('./Shabnam/Shabnam-Bold.ttf') format('truetype');
+  font-weight: bold;
+  unicode-range: U+0600-06FF,U+FB8A, U+067E, U+0686, U+06AF, U+200C;
+}
+
+@font-face {
+  font-family: Shabnam;
+  font-display: swap;
+  src: url('./Shabnam/Shabnam-Light.eot');
+  src: url('./Shabnam/Shabnam-Light.eot?#iefix') format('embedded-opentype'),
+       url('./Shabnam/Shabnam-Light.woff2') format('woff2'),
+       url('./Shabnam/Shabnam-Light.woff') format('woff'),
+       url('./Shabnam/Shabnam-Light.ttf') format('truetype');
+  font-weight: 300;
+  unicode-range: U+0600-06FF,U+FB8A, U+067E, U+0686, U+06AF, U+200C;
+}

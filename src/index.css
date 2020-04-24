@@ -1,0 +1,13 @@
+@import "./assets/fonts/Shabnam.css";
+
+body {
+  background-color: #F1F2F4;
+  margin: 0;
+  font-family: Shabnam;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a {
+  color: blue;
+  cursor: pointer;
+}

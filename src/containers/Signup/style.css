@@ -1,0 +1,96 @@
+.login-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-color: #EBEBEB; */
+  direction: ltr!important;
+}
+
+.login {
+  /* background-color: white; */
+  padding-top: 55px;
+  padding-bottom: 55px;
+  padding-right: 85px;
+  padding-left: 85px;
+  border-radius: 10px;
+  width: 400px;
+  text-align: center;
+}
+
+
+
+.en-input {
+  text-align: center;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /* background-color: #fff; */
+  border: 1px solid #e6e6e6;
+  border-radius: 2px;
+  margin-bottom: 36px;
+  color: #555555;
+  line-height: 1.2;
+  font-size: 18px;
+  background: transparent;
+  height: 55px;
+}
+
+.signin {
+  font-family: anjoman;
+  /* color: #fff; */
+  background: #001166;
+  border-radius: 2px;
+  border: 1px solid #e8e8e8;
+  display: inline-block;
+  /* margin-bottom: 10px; */
+  overflow: hidden;
+  /* color: #9a929e; */
+  display: inline-block;
+  cursor: pointer;
+  padding: 20px;
+  width: 100%;
+  font-style: bold;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+
+.log-heading {
+  font-size: 30px;
+  color: #555555;
+  line-height: 1.2;
+  text-transform: uppercase;
+  text-align: right;
+  width: 100%;
+  display: block;
+  padding-bottom: 32px;
+
+}
+
+.en-label {
+  font-size: 13px;
+  color: #555555;
+  line-height: 1.4;
+  text-transform: uppercase;
+  padding-bottom: 11px;
+  display: block;
+  left:0%;
+  width: 100%;
+  text-align: right;
+}
+
+
+.submit-button {
+  font-family: Shabnam!important;
+  direction: rtl;
+}
+
+.space-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
